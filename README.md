@@ -103,4 +103,4 @@ def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
 
 ## RESULT
 
-Include your result here
+Thus a neural network regression model for the dataset was developed successfully.
